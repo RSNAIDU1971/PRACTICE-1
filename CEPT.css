@@ -1,0 +1,20 @@
+::marker {
+    color:red;
+}
+
+::selection {
+    background-color: aqua;
+    color:blue
+}
+.role {
+    color: darkred ;
+    font-size:larger;
+}
+
+.menu {
+    color:brown ;
+    background-color:blanchedalmond;
+    font-family: Georgia ;
+    font-size:larger;
+    font-weight: bolder;
+}
